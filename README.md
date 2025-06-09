@@ -97,3 +97,17 @@ Remember to change the default admin password after first login!
 ## License
 
 zespol-IT.pl
+
+## Documentation
+
+### Screenshots
+
+W katalogu `docs/` znajdują się zrzuty ekranu przedstawiające główne funkcjonalności aplikacji:
+
+1. [Dashboard](docs/01-dashboard.png) - Panel główny z ostatnimi meczami
+2. [Ligi](docs/02-leagues.png) - Lista lig i ich szczegóły
+3. [Drużyny](docs/03-teams.png) - Lista drużyn i ich szczegóły
+4. [Zawodnicy](docs/04-players.png) - Lista zawodników i ich statystyki
+5. [Mecze](docs/05-matches.png) - Lista meczów i ich szczegóły
+6. [Statystyki](docs/06-statistics.png) - Statystyki ligowe, strzelców i asystentów
+7. [Ustawienia](docs/07-settings.png) - Panel ustawień aplikacji
